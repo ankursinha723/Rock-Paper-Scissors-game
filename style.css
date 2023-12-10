@@ -86,6 +86,7 @@ button {
 
     #choices {
         flex-direction: column;
+        margin: 2rem 0;
     }
 
     .choice {
